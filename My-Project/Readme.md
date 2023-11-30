@@ -4,6 +4,8 @@ Welcome to my simple Python game project! This repository contains a basic Pytho
 
 ## Getting Started
 
+Git ready to have some fun.
+
 ### Prerequisites
 
 Make sure you have Python installed on your machine.
